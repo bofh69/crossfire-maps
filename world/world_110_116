@@ -9,7 +9,7 @@ enter_x 1
 enter_y 1
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-15 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_110_115
@@ -14132,6 +14132,14 @@ arch woods_3
 x 46
 y 19
 elevation 0
+end
+arch sign
+name forester's board
+msg
+The trees inland of this marker move when nobody is counting them. Do not go in to count them.
+endmsg
+x 46
+y 19
 end
 arch grass_br_gr
 x 46
