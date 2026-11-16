@@ -9,7 +9,7 @@ enter_x 1
 enter_y 1
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-16 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_111_115
@@ -13034,10 +13034,23 @@ x 44
 y 25
 elevation 4675
 end
+arch bones4
+x 44
+y 25
+no_pick 1
+end
 arch mountain
 x 44
 y 26
 elevation 5281
+end
+arch sign
+name bone-pile at the cave mouth
+msg
+Ogre sign here - bones cracked lengthways, which is how ogres take marrow. Count the pile before you decide you are equal to what made it.
+endmsg
+x 44
+y 26
 end
 arch mountain
 x 44
@@ -13308,10 +13321,20 @@ x 45
 y 25
 elevation 3559
 end
+arch bones4
+x 45
+y 25
+no_pick 1
+end
 arch hills_rocky
 x 45
 y 26
 elevation 4971
+end
+arch bones4
+x 45
+y 26
+no_pick 1
 end
 arch mountain_cave
 slaying /dungeons/dark-cave/ogre-cave
@@ -13569,15 +13592,30 @@ x 46
 y 26
 elevation 4445
 end
+arch bones4
+x 46
+y 26
+no_pick 1
+end
 arch mountain
 x 46
 y 27
 elevation 5231
 end
+arch bones4
+x 46
+y 27
+no_pick 1
+end
 arch hills_rocky
 x 46
 y 28
 elevation 4828
+end
+arch bones4
+x 46
+y 28
+no_pick 1
 end
 arch hills_rocky
 x 46
