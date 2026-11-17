@@ -6,7 +6,7 @@ width 50
 height 50
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-17 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_111_116
@@ -9974,6 +9974,14 @@ arch mountain
 x 30
 y 42
 elevation 8688
+end
+arch sign
+name marker before the cave
+msg
+Over a dozen wyverns past this stone, and they are only the entrance hall. Come armed and ready or come another day.
+endmsg
+x 30
+y 42
 end
 arch mountain
 x 30
