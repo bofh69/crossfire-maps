@@ -1979,7 +1979,9 @@ x 8
 elevation 5220
 end
 arch mountain_cave2
+name Dark Cave
 slaying /dungeons/dark-cave/dark-cave
+hp 1
 sp 6
 x 8
 y 1
