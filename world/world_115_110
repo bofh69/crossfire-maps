@@ -6,7 +6,7 @@ width 50
 height 50
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-19 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_115_109
@@ -864,6 +864,16 @@ arch hills
 x 3
 y 13
 elevation 3492
+end
+arch sign
+name notice on the compound fence
+msg
+Somebody farmed here once. The giants have the buildings now
+and have left the chickens alone, which tells you
+what a giant thinks a chicken is worth.
+endmsg
+x 3
+y 13
 end
 arch hills
 x 3
@@ -3108,6 +3118,16 @@ arch fog
 x 10
 y 22
 end
+arch sign
+name necropolis marker
+msg
+THE NECROPOLIS OF GAX.
+Five things stand at the entrance, and a necropolis stands behind them.
+Do that arithmetic before you go in.
+endmsg
+x 10
+y 22
+end
 arch brush
 x 10
 y 23
@@ -3780,6 +3800,15 @@ arch pstone_1
 x 12
 y 38
 end
+arch sign
+name manor gatepost
+msg
+The small manor. The family are away.
+The goblins are not.
+endmsg
+x 12
+y 38
+end
 arch farmland
 x 12
 y 39
@@ -4080,6 +4109,15 @@ x 13
 y 40
 end
 arch farmland
+x 13
+y 41
+end
+arch sign
+name granary door notice
+msg
+The granary. Dogs inside,
+and something larger that the dogs have not managed to drive out.
+endmsg
 x 13
 y 41
 end
@@ -5628,6 +5666,16 @@ arch hills
 x 19
 y 26
 end
+arch sign
+name tower stone
+msg
+THREE SISTERS TOWER.
+A troll and a dark elf keep the door,
+which tells you the sisters are not receiving.
+endmsg
+x 19
+y 26
+end
 arch sea
 x 19
 y 27
@@ -5794,6 +5842,14 @@ arch mountain
 x 20
 y 9
 elevation 5682
+end
+arch sign
+name defaced boundary stone
+msg
+A shrine, and not to anything you would name aloud. The serpentmen who keep it do not take visitors.
+endmsg
+x 20
+y 9
 end
 arch grass_only
 x 20
