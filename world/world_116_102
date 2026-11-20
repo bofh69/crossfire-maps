@@ -9036,15 +9036,6 @@ x 30
 y 26
 elevation 0
 end
-arch sign
-name maze notice
-msg
-Marposist built a maze and stocked it with dragons of three tempers.
-He is no longer available to explain why.
-endmsg
-x 30
-y 26
-end
 arch cobblestones2
 x 30
 y 27
@@ -10066,6 +10057,14 @@ arch grass
 x 33
 y 27
 elevation 0
+end
+arch sign_w
+name maze notice
+msg
+Marposist built a maze and stocked it with dragons of three tempers. He is no longer available to explain why.
+endmsg
+x 33
+y 27
 end
 arch grass
 x 33
