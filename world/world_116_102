@@ -11448,8 +11448,7 @@ end
 arch sign
 name raffle board
 msg
-DARCAP CIRCUS RAFFLE. Tickets within.
-The dog belongs to the proprietor and is not a prize.
+Darcap Raffle 1. Tickets within. The dog belongs to the proprietor and is not a prize.
 endmsg
 x 38
 y 8
