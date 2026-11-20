@@ -9336,9 +9336,7 @@ end
 arch sign
 name west stalls board
 msg
-DARCAP CIRCUS, WEST STALLS
-Shooting Gallery, Hall of Illusions, Test of Strength.
-All three are games. The Hall of Illusions uses real ones.
+Darcap Circus, West Stalls. Shooting Gallery, Hall of Illusions, Test of Strength. All three are games. The Hall of Illusions uses real ones.
 endmsg
 x 31
 y 17
@@ -12406,9 +12404,7 @@ end
 arch sign
 name east stalls board
 msg
-DARCAP CIRCUS, EAST STALLS
-Double Your Bet, the Chess Board, the Wheel.
-Games of chance, and the house holds the usual advantage.
+Darcap Circus, East STalls. Double Your Bet, the Chess Board, the Wheel. Games of chance, and the house holds the usual advantage.
 endmsg
 x 41
 y 17
