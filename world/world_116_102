@@ -10630,11 +10630,8 @@ end
 arch sign
 name circus signboard
 msg
-DARCAP CIRCUS
-Throwing Gallery to your right, Ghost Train to your left.
-Both are attractions and both are meant to be survived.
-The Ghost Train frightens patrons using the genuine article,
-so do not wander off the ride.
+Darcap Circus.
+Throwing Gallery to your right, Ghost Train to your left. Both are attractions and both are meant to be survived. The Ghost Train frightens patrons using the genuine article, so do not wander off the ride.
 endmsg
 x 35
 y 15
