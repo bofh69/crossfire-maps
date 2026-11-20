@@ -6,7 +6,7 @@ width 50
 height 50
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-20 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_116_102
@@ -1171,6 +1171,14 @@ x 4
 y 20
 elevation 64
 end
+arch sign
+name post at the village edge
+msg
+The village pays no tithe and answers no summons. What is living in it now, does not welcome visitors.
+endmsg
+x 4
+y 20
+end
 arch grass
 x 4
 y 21
@@ -1303,6 +1311,14 @@ arch hills_rocky
 x 4
 y 37
 elevation 4808
+end
+arch sign
+name scorched marker
+msg
+The mountain has not erupted in living memory. What lives in the vents comes out unaided.
+endmsg
+x 4
+y 37
 end
 arch mountain
 x 4
@@ -12946,6 +12962,14 @@ arch mountain
 x 43
 y 42
 elevation 5397
+end
+arch sign
+name cairn at the cave mouth
+msg
+Hanshaugen Cave. Bats at the entrance, and then whatever it is that eats what the bats leave behind.
+endmsg
+x 43
+y 42
 end
 arch mountain
 x 43
