@@ -6,7 +6,7 @@ width 50
 height 50
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-11-20 Rick Tanner
+Modified: 2026-11-21 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_119_100
@@ -8179,10 +8179,7 @@ arch sign
 msg
 Training Centers Incorporated
 -=+=-
-Drop 5000 platinum at the Toll Booth
-to get to the mainland.
-You will also need 5000 platinum if you
-decide to come back across our bridge.
+Drop 5000 platinum at the Toll Booth to get to the mainland. You will also need 5000 platinum if you decide to come back across our bridge.
 endmsg
 x 25
 y 32
@@ -11621,10 +11618,7 @@ arch sign
 msg
 Training Centers Incorporated
 -=+=-
-Drop 5000 platinum at the Toll Booth
-to get to our Training Center on the Island.
-You will also need 5000 platinum if you
-decide to come back across our bridge.
+Drop 5000 platinum at the Toll Booth to get to our Training Center on the Island. You will also need 5000 platinum if you decide to come back across our bridge.
 endmsg
 x 38
 y 30
