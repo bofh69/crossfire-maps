@@ -8702,6 +8702,7 @@ y 36
 end
 arch exit
 slaying ../navar_city/troll_canyon/entrance
+hp 1
 sp 21
 x 34
 y 37
