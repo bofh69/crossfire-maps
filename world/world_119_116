@@ -1,12 +1,12 @@
 arch map
 name world_119_116
-region narcopin
 difficulty 1
+region narcopin
 width 50
 height 50
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-22 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_119_115
@@ -5553,6 +5553,14 @@ x 21
 y 14
 generator 0
 end
+arch sign
+name scratched slab
+msg
+The Crypt of Vermin is named accurately, and modestly.
+endmsg
+x 21
+y 14
+end
 arch pstone_1
 x 21
 y 15
@@ -10220,6 +10228,14 @@ x 36
 y 6
 attacktype 1
 end
+arch sign
+name tower stone
+msg
+The tower is named for its tenants. Five of them, and all at home.
+endmsg
+x 36
+y 6
+end
 arch pstone_1
 x 36
 y 7
@@ -10913,6 +10929,14 @@ x 38
 y 11
 elevation 713
 end
+arch sign
+name crypt lintel
+msg
+Aljwaf crypt. The sand has got into everything here, including the things that were buried.
+endmsg
+x 38
+y 11
+end
 arch desert
 x 38
 y 12
@@ -10946,6 +10970,14 @@ arch desert
 x 38
 y 17
 elevation 713
+end
+arch sign
+name crypt lintel
+msg
+The crypt is haunted. The parish has known this for years and has done nothing whatever about it.
+endmsg
+x 38
+y 17
 end
 arch desert
 x 38
@@ -13193,6 +13225,14 @@ arch desert
 x 46
 y 17
 elevation 713
+end
+arch sign
+name smith's board
+msg
+Narcopin, smith. Blades tested on the premises. Do not handle the stock. Some of it is still being tested.
+endmsg
+x 46
+y 17
 end
 arch desert
 x 46
