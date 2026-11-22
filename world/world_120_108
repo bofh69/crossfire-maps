@@ -6,7 +6,7 @@ width 50
 height 50
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-22 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_120_107
@@ -4344,6 +4344,14 @@ arch hills_rocky
 x 17
 y 28
 elevation 4734
+end
+arch sign
+name tunnel marker, north mouth
+msg
+The Navar to Darcap tunnel, north mouth. Gargoyles have taken the middle stretch. There is no way round them, only through.
+endmsg
+x 17
+y 28
 end
 arch mountain
 x 17
