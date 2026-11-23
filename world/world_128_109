@@ -6,7 +6,7 @@ width 50
 height 50
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-23 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_128_108
@@ -3927,6 +3927,14 @@ x 15
 y 3
 elevation 4991
 end
+arch sign
+name quayside board
+msg
+The warehouse is not in use. What is using it has not been asked to leave, for good reason.
+endmsg
+x 15
+y 3
+end
 arch dungeon_floor
 x 15
 y 4
@@ -5872,6 +5880,15 @@ x 22
 y 2
 elevation 4516
 end
+arch sign
+name notice at the stairhead
+msg
+The cellar stair.
+The house above it is sound and empty. The house below is neither.
+endmsg
+x 22
+y 2
+end
 arch dungeon_floor
 x 22
 y 3
@@ -6233,6 +6250,14 @@ arch dungeon_floor
 x 23
 y 12
 elevation 497
+end
+arch sign
+name notice on the gatepost
+msg
+Castle Magara. The bats went in first and did not come out. Whatever they were getting away from is still inside.
+endmsg
+x 23
+y 12
 end
 arch dungeon_floor
 x 23
@@ -7087,6 +7112,14 @@ x 26
 y 11
 end
 arch dungeon_floor
+x 26
+y 12
+end
+arch sign
+name notice at the tower door
+msg
+High tower. It starts with a couple dozen goblines, a staircase, and gets more dangerous from there.
+endmsg
 x 26
 y 12
 end
@@ -8514,6 +8547,14 @@ arch dungeon_floor
 x 32
 y 3
 end
+arch sign
+name board at the tower foot
+msg
+The short tower. It is short because the upper floors came down. What was on them did not leave.
+endmsg
+x 32
+y 3
+end
 arch dungeon_floor
 x 32
 y 4
@@ -9051,6 +9092,15 @@ x 34
 y 5
 end
 arch dungeon_floor
+x 34
+y 6
+end
+arch sign
+name prison sign
+msg
+Wolfsburg Prison.
+The jail still holds its prisoners. It stopped feeding them some time ago, and they stopped needing it.
+endmsg
 x 34
 y 6
 end
@@ -11327,6 +11377,14 @@ arch grass
 x 43
 y 11
 end
+arch sign
+name plaque at the west tower
+msg
+West tower. The elements were bound in here once. They have since been let out, one of each temper.
+endmsg
+x 43
+y 11
+end
 arch grass
 x 43
 y 12
@@ -11515,6 +11573,14 @@ x 44
 y 3
 end
 arch pstone_1
+x 44
+y 4
+end
+arch sign
+name board on a church door
+msg
+The church is run down and re-tenanted. A dozen or so pirates keep it, and they do not pass a collection plate so much as insist upon one.
+endmsg
 x 44
 y 4
 end
