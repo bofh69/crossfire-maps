@@ -9,7 +9,7 @@ enter_x 1
 enter_y 1
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-22 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_123_122
@@ -196,6 +196,13 @@ end
 arch desert
 y 39
 elevation 357
+end
+arch sign_e
+name board nailed over a door
+msg
+This was Halvard's cabin. Do not touch what floats in it. Halvard did.
+endmsg
+y 39
 end
 arch woods
 y 40
@@ -1278,6 +1285,14 @@ arch desert
 x 4
 y 39
 elevation 132
+end
+arch sign
+name board at the wellhead
+msg
+The fishers stopped drawing from this well. What is in the water no longer keeps still, and is no longer entirely water.
+endmsg
+x 4
+y 39
 end
 arch hills
 x 4
@@ -5264,6 +5279,14 @@ arch hills_rocky
 x 20
 y 4
 elevation 3904
+end
+arch sign
+name board between two empty barracks
+msg
+Two armies were garrisoned here. Then the trolls came down the mountain and took over.
+endmsg
+x 20
+y 4
 end
 arch hills_rocky
 x 20
