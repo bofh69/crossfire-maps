@@ -9,7 +9,7 @@ enter_x 1
 enter_y 1
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-23 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_128_127
@@ -2683,6 +2683,14 @@ x 10
 y 43
 elevation 3812
 end
+arch sign
+name stake in the snow
+msg
+Almost a dozen bears in the one cave. Bears do not crowd like that unless something has crowded them.
+endmsg
+x 10
+y 43
+end
 arch flagstone
 face snow.111
 x 10
@@ -4268,6 +4276,14 @@ face snow.111
 x 16
 y 44
 elevation 3812
+end
+arch sign
+name notice nailed to the well-frame
+msg
+The keeper stopped drawing water the winter something came up this well. He left the rope. He did not leave.
+endmsg
+x 16
+y 44
 end
 arch flagstone
 face snow.111
@@ -9851,6 +9867,14 @@ x 38
 y 43
 elevation 3812
 end
+arch sign
+name board between the two ice mouths
+msg
+Two ways down into the ice, north and south of this board. Both go to the same dysmal cave, which is not empty.
+endmsg
+x 38
+y 43
+end
 arch flagstone
 face snow.111
 x 38
@@ -11669,6 +11693,14 @@ face snow.111
 x 45
 y 43
 elevation 3812
+end
+arch sign_w
+name stake in the snow
+msg
+A bear lair, and a full one - three and twenty denned in the ice. Bears do not share a den unless the hunting is very good.
+endmsg
+x 45
+y 43
 end
 arch flagstone
 face snow.111
