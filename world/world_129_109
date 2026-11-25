@@ -6,7 +6,7 @@ width 50
 height 50
 msg
 Created:  2001-12-18 Mark Wedel
-Modified: 2026-08-11 Rick Tanner
+Modified: 2026-11-25 Rick Tanner
 endmsg
 outdoor 1
 tile_path_1 world_129_108
@@ -1579,7 +1579,7 @@ x 6
 y 19
 elevation 113
 end
-arch desert
+arch pstone_1
 x 6
 y 20
 elevation 213
@@ -1823,27 +1823,27 @@ x 7
 y 15
 elevation -3
 end
-arch desert
+arch pstone_1
 x 7
 y 16
 elevation 34
 end
-arch desert
+arch pstone_1
 x 7
 y 17
 elevation 97
 end
-arch desert
+arch pstone_1
 x 7
 y 18
 elevation 128
 end
-arch desert
+arch pstone_1
 x 7
 y 19
 elevation 148
 end
-arch desert
+arch pstone_1
 x 7
 y 20
 elevation 204
@@ -1858,7 +1858,7 @@ x 7
 y 22
 elevation 123
 end
-arch desert
+arch pstone_1
 x 7
 y 23
 elevation 11
@@ -2067,32 +2067,32 @@ x 8
 y 14
 elevation -27
 end
-arch desert
+arch pstone_1
 x 8
 y 15
 elevation 19
 end
-arch desert
+arch pstone_1
 x 8
 y 16
 elevation 130
 end
-arch desert
+arch pstone_1
 x 8
 y 17
 elevation 97
 end
-arch desert
+arch pstone_1
 x 8
 y 18
 elevation 96
 end
-arch desert
+arch pstone_1
 x 8
 y 19
 elevation 54
 end
-arch desert
+arch pstone_1
 x 8
 y 20
 elevation 51
@@ -2102,7 +2102,7 @@ x 8
 y 21
 elevation 75
 end
-arch desert
+arch pstone_1
 x 8
 y 22
 elevation 75
@@ -2316,32 +2316,32 @@ x 9
 y 14
 elevation -28
 end
-arch desert
+arch pstone_1
 x 9
 y 15
 elevation 21
 end
-arch desert
+arch pstone_1
 x 9
 y 16
 elevation 170
 end
-arch desert
+arch pstone_1
 x 9
 y 17
 elevation 205
 end
-arch desert
+arch pstone_1
 x 9
 y 18
 elevation 69
 end
-arch desert
+arch pstone_1
 x 9
 y 19
 elevation 25
 end
-arch desert
+arch pstone_1
 x 9
 y 20
 elevation 22
@@ -2351,12 +2351,12 @@ x 9
 y 21
 elevation 13
 end
-arch desert
+arch pstone_1
 x 9
 y 22
 elevation 36
 end
-arch desert
+arch pstone_1
 x 9
 y 23
 elevation 33
@@ -2565,17 +2565,17 @@ x 10
 y 14
 elevation -28
 end
-arch desert
+arch pstone_1
 x 10
 y 15
 elevation 31
 end
-arch desert
+arch pstone_1
 x 10
 y 16
 elevation 169
 end
-arch desert
+arch pstone_1
 x 10
 y 17
 elevation 447
@@ -2585,12 +2585,12 @@ x 10
 y 18
 elevation 221
 end
-arch desert
+arch pstone_1
 x 10
 y 19
 elevation 102
 end
-arch desert
+arch pstone_1
 x 10
 y 20
 elevation 58
@@ -2824,7 +2824,7 @@ x 11
 y 16
 elevation 485
 end
-arch desert
+arch pstone_1
 x 11
 y 17
 elevation 827
@@ -2834,7 +2834,7 @@ x 11
 y 18
 elevation 858
 end
-arch desert
+arch pstone_1
 x 11
 y 19
 elevation 562
@@ -2849,7 +2849,7 @@ x 11
 y 21
 elevation 101
 end
-arch desert
+arch pstone_1
 x 11
 y 22
 elevation 303
@@ -3063,12 +3063,12 @@ x 12
 y 14
 elevation -6
 end
-arch desert
+arch pstone_1
 x 12
 y 15
 elevation 57
 end
-arch desert
+arch pstone_1
 x 12
 y 16
 elevation 676
@@ -3088,7 +3088,7 @@ x 12
 y 19
 elevation 852
 end
-arch desert
+arch pstone_1
 x 12
 y 20
 elevation 460
@@ -3103,7 +3103,7 @@ x 12
 y 22
 elevation 202
 end
-arch desert
+arch pstone_1
 x 12
 y 23
 elevation 285
@@ -3307,7 +3307,7 @@ x 13
 y 13
 elevation -2
 end
-arch desert
+arch pstone_1
 x 13
 y 14
 elevation 19
@@ -3317,7 +3317,7 @@ x 13
 y 15
 elevation 136
 end
-arch desert
+arch pstone_1
 x 13
 y 16
 elevation 578
@@ -3337,22 +3337,22 @@ x 13
 y 19
 elevation 578
 end
-arch desert
+arch pstone_1
 x 13
 y 20
 elevation 342
 end
-arch desert
+arch pstone_1
 x 13
 y 21
 elevation 30
 end
-arch desert
+arch pstone_1
 x 13
 y 22
 elevation 55
 end
-arch desert
+arch pstone_1
 x 13
 y 23
 elevation 116
@@ -3541,7 +3541,7 @@ x 14
 y 10
 elevation -275
 end
-arch desert
+arch pstone_1
 x 14
 y 11
 elevation 16
@@ -3551,7 +3551,7 @@ x 14
 y 12
 elevation 59
 end
-arch desert
+arch pstone_1
 x 14
 y 13
 elevation 31
@@ -3561,22 +3561,22 @@ x 14
 y 14
 elevation 19
 end
-arch desert
+arch pstone_1
 x 14
 y 15
 elevation 179
 end
-arch desert
+arch pstone_1
 x 14
 y 16
 elevation 728
 end
-arch desert
+arch pstone_1
 x 14
 y 17
 elevation 967
 end
-arch desert
+arch pstone_1
 x 14
 y 18
 elevation 578
@@ -3591,7 +3591,7 @@ x 14
 y 20
 elevation 57
 end
-arch desert
+arch pstone_1
 x 14
 y 21
 elevation 39
@@ -3601,7 +3601,7 @@ x 14
 y 22
 elevation 71
 end
-arch desert
+arch pstone_1
 x 14
 y 23
 elevation 102
@@ -3795,7 +3795,7 @@ x 15
 y 11
 elevation 248
 end
-arch desert
+arch pstone_1
 x 15
 y 12
 elevation 256
@@ -3805,17 +3805,17 @@ x 15
 y 13
 elevation 136
 end
-arch desert
+arch pstone_1
 x 15
 y 14
 elevation 14
 end
-arch desert
+arch pstone_1
 x 15
 y 15
 elevation 131
 end
-arch desert
+arch pstone_1
 x 15
 y 16
 elevation 553
@@ -3825,12 +3825,12 @@ x 15
 y 17
 elevation 651
 end
-arch desert
+arch pstone_1
 x 15
 y 18
 elevation 383
 end
-arch desert
+arch pstone_1
 x 15
 y 19
 elevation 28
@@ -4039,17 +4039,17 @@ x 16
 y 10
 elevation 136
 end
-arch desert
+arch pstone_1
 x 16
 y 11
 elevation 375
 end
-arch desert
+arch pstone_1
 x 16
 y 12
 elevation 339
 end
-arch desert
+arch pstone_1
 x 16
 y 13
 elevation 133
@@ -4069,7 +4069,7 @@ x 16
 y 16
 elevation 164
 end
-arch desert
+arch pstone_1
 x 16
 y 17
 elevation 219
