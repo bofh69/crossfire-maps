@@ -7,8 +7,8 @@ height 16
 enter_x 17
 enter_y 7
 msg
-Created:  1998-12-21
-Modified: 2024-12-29 Rick Tanner
+Created:  1993-12-05 Don Tabb
+Modified: 2026-11-26 Rick Tanner
 endmsg
 end
 arch dungeon_magic
