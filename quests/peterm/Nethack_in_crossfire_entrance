@@ -8,8 +8,8 @@ height 14
 enter_x 2
 enter_y 1
 msg
-Created:  2001-05-06
-Modified: 2022-02-06 Kevin Zheng
+Created:  2001-05-06 Peter Mardahl
+Modified: 2026-11-28 Rick Tanner
 endmsg
 end
 arch cobblestones2
